@@ -13,7 +13,7 @@ Follow these commands to run the application for the first time:
 mvn compile
 mvn exec:java
 ```
-If application was compiled at least once, you can run it with just:
+If the application was compiled at least once, you can run it with just:
 
 ```bash
 mvn exec:java
